@@ -49,3 +49,5 @@ CLSS completely rejects the legacy "packet-processing" approach, where systems a
 * **System State:** Theoretical architecture finalized. Physical geometry specs ready for synthesis. Implementation protocols locked.
 
 *CLSS stands as the absolute physical baseline for AGI deployment. The integration is structurally inevitable.*
+[Website of the Project](https://hot-el.tilda.ws)
+<img width="2030" height="1440" alt="00" src="https://github.com/user-attachments/assets/20018d41-4609-4e07-bf45-6493e821453e" />
